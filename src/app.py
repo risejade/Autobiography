@@ -8,11 +8,11 @@ from EducationalBg import render_educationalBg
 import pathlib
 
 st.set_page_config(
-    page_title="Rise Jade Benavente's Portfolio",
-    page_icon=":tada:",
-    layout="wide"
+    page_title="My App",
+    page_icon=":star:",
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
-
 st.markdown(
     """
     <style>
