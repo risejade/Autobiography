@@ -25,7 +25,7 @@ def render_projects():
             CampusCompass simplifies navigating CIT-U by eliminating the need to ask for directions. 
             It features a real-time tracker to show your current location, making campus navigation seamless.
             """,
-            "image_path": "Cimages/campuscompass.png"
+            "image_path": "images/campuscompass.png"
         },
         "Project 3: Bus Reservation System 💻": {
             "description": """
