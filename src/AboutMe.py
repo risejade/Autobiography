@@ -4,12 +4,12 @@ from PIL import Image
 st.set_page_config(page_title="About Me", page_icon=":camera:", layout="wide")
 
 def render_about_me():
-    img_aboutme1 = Image.open("C:/School/GitHub/sampleStream/images/aboutme1.jpg")
-    img_aboutme2 = Image.open("C:/School/GitHub/sampleStream/images/aboutme2.jpg")
-    img_aboutme3 = Image.open("C:/School/GitHub/sampleStream/images/aboutme3.jpg")
-    img_aboutme4 = Image.open("C:/School/GitHub/sampleStream/images/aboutme4.jpg")
-    img_friends1 = Image.open("C:/School/GitHub/sampleStream/images/friends1.jpg")
-    img_friends2 = Image.open("C:/School/GitHub/sampleStream/images/friends2.jpg")
+    img_aboutme1 = Image.open("images/aboutme1.jpg")
+    img_aboutme2 = Image.open("images/aboutme2.jpg")
+    img_aboutme3 = Image.open("images/aboutme3.jpg")
+    img_aboutme4 = Image.open("images/aboutme4.jpg")
+    img_friends1 = Image.open("images/friends1.jpg")
+    img_friends2 = Image.open("images/friends2.jpg")
     
     st.markdown(
         """

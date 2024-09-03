@@ -13,7 +13,7 @@ def render_home():
     col1, col2, col3 = st.columns([1, 2, 1])  
 
     with col1:
-        left_image_path = "C:/School/GitHub/sampleStream/images/codingGIF.gif"
+        left_image_path = "images/codingGIF.gif"
         left_image = Image.open(left_image_path)
 
         base_width = 600  
@@ -80,7 +80,7 @@ def render_home():
         )
 
     with col3:
-        right_image_path = "C:/School/GitHub/sampleStream/images/uiDevGIF.gif"
+        right_image_path = "images/uiDevGIF.gif"
         right_image = Image.open(right_image_path)
 
         base_width = 300 

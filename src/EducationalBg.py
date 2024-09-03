@@ -16,27 +16,27 @@ def render_educationalBg():
             "level": "Grade School",
             "years": "2008-2014",
             "school": "Basak Community School",
-            "image_path": "C:/School/GitHub/sampleStream/images/bcs.jpg"
+            "image_path": "images/bcs.jpg"
         },
         {
             "level": "Junior High School",
             "years": "2014-2018",
             "school": "Abellana National School",
             "honors": "With Honors",
-            "image_path": "C:/School/GitHub/sampleStream/images/ans.jpg"
+            "image_path": "images/ans.jpg"
         },
         {
             "level": "Senior High School",
             "years": "2018-2020",
             "school": "Abellana National School - TVL Track Major in Automotive",
             "honors": "With Honors",
-            "image_path": "C:/School/GitHub/sampleStream/images/ans.jpg"
+            "image_path": "images/ans.jpg"
         },
         {
             "level": "College",
             "years": "2021-Present",
             "school": "Cebu Institute of Technology - University",
-            "image_path": "C:/School/GitHub/sampleStream/images/cit-u.png"
+            "image_path": "images/cit-u.png"
         }
     ]
 

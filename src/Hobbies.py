@@ -26,10 +26,10 @@ def render_hobbies():
 
 
     image_paths = [
-        "C:/School/GitHub/sampleStream/images/hobby1.jpg",
-        "C:/School/GitHub/sampleStream/images/hobby2.jpg",
-        "C:/School/GitHub/sampleStream/images/hobby3.jpg",
-        "C:/School/GitHub/sampleStream/images/hobby4.jpg"
+        "images/hobby1.jpg",
+        "images/hobby2.jpg",
+        "images/hobby3.jpg",
+        "images/hobby4.jpg"
     ]
 
     col1, col2, col3 = st.columns(3)

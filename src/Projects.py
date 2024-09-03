@@ -18,21 +18,21 @@ def render_projects():
             Developed a bot using Puppeteer that logs into an AIMS (Academic Information Management System)
             and scrapes necessary information for integration with other systems.
             """,
-            "image_path": "C:/School/GitHub/sampleStream/images/classconnect.png"
+            "image_path": "images/classconnect.png"
         },
         "Project 2: CampusCompass 💻": {
             "description": """
             CampusCompass simplifies navigating CIT-U by eliminating the need to ask for directions. 
             It features a real-time tracker to show your current location, making campus navigation seamless.
             """,
-            "image_path": "C:/School/GitHub/sampleStream/images/campuscompass.png"
+            "image_path": "Cimages/campuscompass.png"
         },
         "Project 3: Bus Reservation System 💻": {
             "description": """
             Created a bus reservation system to streamline the booking process. The system allows users to reserve seats on buses 
             and manage their bookings efficiently.
             """,
-            "image_path": "C:/School/GitHub/sampleStream/images/BRS.png"
+            "image_path": "images/BRS.png"
         }
     }
 
