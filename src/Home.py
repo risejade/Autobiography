@@ -131,7 +131,7 @@ def render_home():
                         Explore my skills as a Developer, Designer, 
                         Analyst, and Programmer, and see some of the projects 
                         I’m passionate about. Feel free to reach out if you 
-                        have any questions or just want to connect! :star:
+                        have any questions or just want to connect!
                     </p>
                 </div>
                 <div style="padding: 20px; text-align: center;">
